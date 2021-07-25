@@ -1,0 +1,3 @@
+Welcome to git
+Way to create repository->create repository->Name
+Way to create file->create new file
