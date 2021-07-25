@@ -1,3 +1,4 @@
 Welcome to git
 Way to create repository->create repository->Name
 Way to create file->create new file
+Way to get back last committed work->click on commit then u can get the number of commits you w=have done and choose the one which u want
